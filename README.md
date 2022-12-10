@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Akhilesh233
-- 👀 I’m interested in Web Development, Machine Learning, AI, Database Management and many more.
-- 🌱 I’m currently learning Database Management system.
-- 💞️ I’m looking to collaborate on Web Developement.
+- 👀 I’m interested in Web Development, Machine Learning, Software Development and many more.
+- 🌱 I’m currently working on backend along with REST APIs and learning Cyber Security.
+- 💞️ If you like to collaborate on anything exicting and relevant, I am in!!!!
 - 📫 How to reach me via mail. Connect with me on akhileshranjan233@gmail.com
 
 <!---
