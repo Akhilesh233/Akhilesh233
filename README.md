@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Akhilesh233
-- 👀 I’m interested in Web Development, Software Development, Cyber Security and many more.
-- 🌱 I’m currently working on backend along with REST APIs and learning Cyber Security.
-- 💞️ If you like to collaborate on anything exicting and relevant, I am in!!!!
-- 📫 How to reach me via mail. Connect with me on akhileshranjan233@gmail.com
+- 👀 I have a keen interest in Web Development, Software Development and many more.
+- 🌱 I’m continuously striving to build cool and exciting projects with various integrations and APIs.
+- 💞️ I would love the opportunity to collaborate on anything exciting and meaningful. 
+- 📫 So, if you have anything exciting do count me in and Connect with me on my social media accounts or mail me on akhileshranjan233@gmail.com
 
 <!---
 Akhilesh233/Akhilesh233 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
